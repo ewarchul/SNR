@@ -2,7 +2,7 @@
 
 ## Opis
 
-	Projekt dotyczy zbadania sztucznej sieci neuronowej oraz algorytmu SVM-C na zbiorze danych `Stanford Dogs Dataset` (klasyfikacja 120 ras psów).
+Projekt dotyczy zbadania sztucznej sieci neuronowej oraz algorytmu SVM-C na zbiorze danych `Stanford Dogs Dataset` (klasyfikacja 120 ras psów).
 
 
 ## Technologia
